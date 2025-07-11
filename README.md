@@ -20,13 +20,33 @@
 
 ## 💻 Skills
 
-- **Languages:** JavaScript, Node.js, Java, SQL
-- **Frontend:** React.js, Vue.js, HTML5, CSS3, Tailwind CSS
-- **Backend:** Express.js, RESTful APIs, Socket.IO
-- **Databases:** MongoDB, SQLite3, Mongoose, Sequelize
-- **Others:** Docker, GitHub Actions, Git, JWT Authentication
+- **Languages:** JavaScript, Node.js, Java, SQL, Python
+- **Frontend:** React, Vue.js, Svelte, Next.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, RESTful APIs, WebSocket
+- **Databases:** MongoDB, PostgreSQL, SQL Server, MySQL, SQLite, AWS RDS, Azure SQL Database
+- **Testing:** Vitest, Supertest, React Testing Library, MongoMemoryServer
+- **Cloud & DevOps:** AWS, Docker, Google Cloud Platform, GitHub Actions, CI/CD pipelines
 - **Architecture:** MVC Pattern, Modular Design, Event-driven Programming
-- **Cloud & Tools:** MongoDB Atlas, Docker Compose, VSCode, Postman
+- **Creation:** PR, AE, PS, AME
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobephotoshop.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeaftereffects.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" width="40" height="40"/>
+</p>
+
+
+
 
 ---
 
