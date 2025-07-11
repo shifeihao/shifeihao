@@ -12,8 +12,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Final-year IT Master's student @ University of Auckland
-- 🌏 Seeking software engineering / full-stack developer roles in New Zealand
-- 🌱 Passionate about web development, gamification, and cloud technologies
 - 📍 Currently based in Auckland, New Zealand
 
 ---
