@@ -32,9 +32,10 @@
 
 ## 🚀 Projects
 
-- 🎯 [Vue Note App](https://github.com/shifeihao/vue-note-app) - A simple note-taking web app with Vue.js + Express.js.
+
 - 🎮 [Gamified To-do List](https://github.com/shifeihao/gamified-todo-app) - A full-stack MERN gamified task management system.
-- 🐾 [Pet Blog Website](https://github.com/shifeihao/pet-blog-website) - A pet-themed blogging site with image uploads and a Java MVC demo.
+- 🐾 [Pet Blog Website](https://github.com/shifeihao/Pet-Blog) - A pet-themed blogging site with image uploads and a Java MVC demo.
+- 🎯 [Vue Note App](https://github.com/shifeihao/vue-note-app) - A simple note-taking web app with Vue.js + Express.js.
 
 ---
 
