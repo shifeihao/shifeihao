@@ -18,7 +18,7 @@
 
 ## 💻 Skills
 
-- **Languages:** JavaScript, Node.js, Java, SQL, Python
+- **Languages:** JavaScript, Java, SQL, Python
 - **Frontend:** React, Vue.js, Svelte, Next.js, HTML5, CSS3, Tailwind CSS
 - **Backend:** Node.js, Express.js, RESTful APIs, WebSocket
 - **Databases:** MongoDB, PostgreSQL, SQL Server, MySQL, SQLite, AWS RDS, Azure SQL Database
