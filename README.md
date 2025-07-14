@@ -23,7 +23,6 @@
 - **Backend:** Node.js, Express.js, RESTful APIs, WebSocket
 - **Databases:** MongoDB, PostgreSQL, SQL Server, MySQL, SQLite, AWS RDS, Azure SQL Database
 - **Testing:** Vitest, Supertest, React Testing Library, MongoMemoryServer
-- **Cloud & DevOps:** AWS, Docker, Google Cloud Platform, GitHub Actions, CI/CD pipelines
 - **Architecture:** MVC Pattern, Modular Design, Event-driven Programming
 - **Creation:** PR, AE, PS, AME
 
