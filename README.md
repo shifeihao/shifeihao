@@ -24,7 +24,7 @@
 - **Databases:** MongoDB, SQLite
 - **Testing:** Vitest, Supertest, React Testing Library, MongoMemoryServer
 - **Architecture:** MVC Pattern, Modular Design, Event-driven Programming
-- **Cloud & Deployment** Docker, Cloud Fundamentals (AWS)
+- **Cloud & Deployment:** Docker, Cloud Fundamentals (AWS)
 - **Creation:** PR, AE, PS, AME
 
 <p align="center">
