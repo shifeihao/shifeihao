@@ -18,12 +18,13 @@
 
 ## 💻 Skills
 
-- **Languages:** JavaScript, Java, SQL, Python
-- **Frontend:** React, Vue.js, Svelte, Next.js, HTML5, CSS3, Tailwind CSS
+- **Languages:** JavaScript, Java, SQL, Python, SQL
+- **Frontend:** React.js, Vue.js, Svelte, HTML5, CSS3, Tailwind CSS
 - **Backend:** Node.js, Express.js, RESTful APIs, WebSocket
-- **Databases:** MongoDB, PostgreSQL, SQL Server, MySQL, SQLite, AWS RDS, Azure SQL Database
+- **Databases:** MongoDB, SQLite
 - **Testing:** Vitest, Supertest, React Testing Library, MongoMemoryServer
 - **Architecture:** MVC Pattern, Modular Design, Event-driven Programming
+- **Cloud & Deployment** Docker, Cloud Fundamentals (AWS)
 - **Creation:** PR, AE, PS, AME
 
 <p align="center">
